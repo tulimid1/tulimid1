@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=tulimid1&color=ff69b4&)
+
 <!--
 **tulimid1/tulimid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
